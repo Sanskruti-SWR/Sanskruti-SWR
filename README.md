@@ -16,7 +16,7 @@ I'm interested in exploring the intersection of engineering, programming, and em
 - Data Science & Data Analytics
 - Materials Science & Engineering
 - Civil Engineering & Computational Applications
-- Open-Source Software Development
+
 
 ### Connect With Me
 
